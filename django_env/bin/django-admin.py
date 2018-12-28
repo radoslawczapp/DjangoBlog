@@ -1,4 +1,4 @@
-#!/home/ubuntu/git_workspace/DjangoBlog/django_env/bin/python
+#!/home/ubuntu/git_workspace/DjangoBlog/django_env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
